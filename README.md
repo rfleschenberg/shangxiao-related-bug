@@ -1,0 +1,3 @@
+```
+./manage.py test myapp
+```
